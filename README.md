@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Après avoir run le projet
+
+Ajoutez "/test" à la fin de l'URL pour activer le mode de test fonctionnel. Ensuite, cliquez sur l'étiquette située en bas de la fenêtre pour faire apparaître le panneau de test. Utilisez le bouton "Play" pour démarrer le test, et le bouton "Stop" pour l'arrêter. Enfin, utilisez le bouton "Download" pour télécharger au format ZIP.
